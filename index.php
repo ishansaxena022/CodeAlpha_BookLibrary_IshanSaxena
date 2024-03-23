@@ -23,7 +23,7 @@
         <header class="py-3 mb-3 border-bottom" style="background-color:#ffce00 ">
             <div class="container-fluid d-grid gap-3 align-items-center" style="grid-template-columns: 1fr 2fr; ">
 
-                <div class="container row d-flex align-items-center" >
+                <div class="container row d-flex align-items-center">
                     <!-- <a href="#" class="d-flex align-items-center col-lg-4 mb-2 mb-lg-0 link-body-emphasis text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                     <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
                     </a>
